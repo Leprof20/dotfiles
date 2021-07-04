@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lanref@gmail.com
+	name = Lanre Fabunmi
